@@ -1,5 +1,4 @@
-// joe.h — shared definitions for Joe's lily58 keymap
-// Include this in oled.c and any other split-out files
+// joe.h — shared definitions for Joe's Lily58 keymap (Boardsource Lulu DIY, CONVERT_TO=blok)
 
 #pragma once
 

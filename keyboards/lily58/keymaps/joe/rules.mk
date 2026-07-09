@@ -1,4 +1,7 @@
-# keyboards/boardsource/lulu/keymaps/joe/rules.mk
+# keyboards/lily58/keymaps/joe/rules.mk
+
+# Boardsource Lulu DIY uses the Blok controller
+CONVERT_TO = blok
 
 # VIA v3 support (usevia.app)
 VIA_ENABLE = yes
@@ -7,7 +10,7 @@ VIA_ENABLE = yes
 RGBLIGHT_ENABLE = no
 RGB_MATRIX_ENABLE = no
 
-# Encoder map support (used in keymap.c)
+# Encoder map support
 ENCODER_MAP_ENABLE = yes
 
 # OLED displays

@@ -15,7 +15,7 @@ static void render_logo(void) {
     // oled_write_raw_P(my_logo, sizeof(my_logo));
 
     // Placeholder until you have your QLE graphic
-    oled_write_P(PSTR("  Lily58  "), false);
+    oled_write_P(PSTR("LILY58"), false);
 }
 
 // ──────────────────────────────────────────────
